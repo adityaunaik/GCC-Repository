@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<request>
+  <Contents>
+    <Content ID="{22F2B234-2DB8-46B2-B4BF-730DA792226D}">
+      <preview-url>http://qa-connect1.translations.comAlternate-Device-Home</preview-url>
+      <ItemName>Alternate Device Home
+	  </ItemName>
+      <ItemPath>/sitecore/content/Alternate Device Home</ItemPath>
+      <attribute attr-name="Title" resourcetype="0" translate="true" Id="{24E5FA4B-1BC1-4D3E-8397-1079C842738C}"><![CDATA[]]></attribute>
+      <attribute attr-name="MenuTitle" resourcetype="0" translate="true" Id="{C74918D7-887A-40D0-A09F-68652CC40E5C}"><![CDATA[]]></attribute>
+      <attribute attr-name="Summary" resourcetype="0" translate="true" Id="{3F23B5E9-E99C-4F87-967E-1D2068D78452}"><![CDATA[&nbsp;]]></attribute>
+      <attribute attr-name="Body" resourcetype="0" translate="true" Id="{9093703F-DB13-4D73-8E83-E85F75EB20D8}"><![CDATA[]]></attribute>
+      <attribute attr-name="__Displayname" resourcetype="0" translate="true" Id="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}"><![CDATA[]]></attribute>
+    </Content>
+  </Contents>
+</request>
